@@ -1,131 +1,99 @@
-# Inventory-Levels-
+**# Inventory-Levels-**
 The project demonstrates an end-to-end data analytics workflow, starting from raw data loading to insights visualization and reporting. The goal is to extract meaningful insights from the dataset using Python, SQL, and Power BI, and present the results in a clear and business-focused manner.
+ 
+** **   The project covers:****
 
-The project covers:
+1.Data loading and exploration in Python.
 
-Data loading and exploration in Python
+2.Data cleaning and preparation
 
-Data cleaning and preparation
+3.SQL querying using a MySQL database
 
-SQL querying using a MySQL database
-
-Interactive dashboard development in Power BI
+4.Interactive dashboard development in Power BI
 
 Final reporting and presentation using Gamma
 
-Dataset
+**Dataset:**
 
 Source: (Add source name or “Public dataset” / “Company-provided dataset”)
 
 Format: CSV
 
-Description: The dataset contains structured records used to analyze trends, patterns, and key performance indicators relevant to the business problem.
-Rows: 17222, Coloumns: 21
-(Optional: briefly mention number of rows/columns or main features.)
+**Description:**
+             The dataset contains structured records used to analyze trends, patterns, and key performance indicators relevant to the business problem.
+              Rows: 17222, Coloumns: 21
 
-Tools & Technologies
+**Tools & Technologies:**
 
-Python: Data loading, EDA, and data cleaning
+1.Python: Data loading, EDA, and data cleaning
 
-Libraries: Pandas, NumPy, Matplotlib.
+2.Libraries: Pandas, NumPy, Matplotlib.
 
-SQL: Data querying and analysis using MySQL
+3.SQL: Data querying and analysis using MySQL
 
-Power BI: Interactive dashboard and data visualization
+4.Power BI: Interactive dashboard and data visualization
 
-Gamma: Presentation (PPT) creation
+5.Gamma: Presentation (PPT) creation
 
-Jupyter Notebook: Analysis and documentation
+6.Jupyter Notebook: Analysis and documentation
 
-Project Steps
+**Project Steps:**
 
-Data Loading
+1.Data Loading
 
-Imported the dataset into Python using Pandas.
+2.Imported the dataset into Python using Pandas.
 
-Performed initial checks on structure, data types, and missing values.
+3.Performed initial checks on structure, data types, and missing values.
 
-Exploratory Data Analysis (EDA)
+4.Exploratory Data Analysis (EDA)
 
-Analyzed distributions, trends, and relationships.
+5.Analyzed distributions, trends, and relationships.
 
-Identified anomalies, missing data, and potential outliers.
+6.Identified anomalies, missing data, and potential outliers.
 
-Data Cleaning
+7.Data Cleaning
 
-Handled missing values and duplicates.
+8.Handled missing values and duplicates.
 
-Standardized column names and data formats.
+9.Standardized column names and data formats.
 
-Prepared clean data for SQL and visualization.
+10.Prepared clean data for SQL and visualization.
 
-SQL Analysis (MySQL)
+**SQL Analysis (MySQL):**
 
-Loaded cleaned data into a MySQL database.
+1.Loaded cleaned data into a MySQL database.
 
-Wrote SQL queries to answer key business questions.
+2.Wrote SQL queries to answer key business questions.
 
-Aggregated and filtered data for insights.
+3.Aggregated and filtered data for insights.
 
-Dashboard Development
+**Dashboard Development:** !
+        <a https://github.com/surendraesa/Inventory-Levels-/blob/main/Inventary_Levels_Dashboard.pbix a>
 
 Built an interactive Power BI dashboard.
 
-Visualized KPIs, trends, and comparisons.
+**Visualized KPIs, trends, and comparisons:**
+     <a https://github.com/surendraesa/Inventory-Levels-/blob/main/mysqlmore.sql a>
 
 Enabled filtering for dynamic analysis.
 
-Reporting & Presentation
-
-Summarized insights in a structured report.
+**Reporting & Presentation:**
+        <a https://github.com/surendraesa/Inventory-Levels-/blob/main/Inventory-Levels-Analysis.pptx a>
+ Summarized insights in a structured report.
 
 Created a professional presentation using Gamma.
 
-Dashboard
-
-The Power BI dashboard provides: 
-
-Key performance indicators (KPIs)
-
-Trend analysis over time
-
-Category and segment comparisons
-
-Interactive filters for deeper exploration
-
-Results & Insights
-
-Identified key trends and patterns in the data.
-
-Highlighted areas of strong and weak performance.
-
 Delivered actionable insights supported by data visualizations and SQL analysis.
-Insights: 1. Stcok details must be clear and accurate data.
-          2. Item desc is must visible.
-          3.Real time tracking.
-          4.Max and Min stock must be variate.
 
-How to Run the Project
+**Insights:** 1. Stcok details must be clear and accurate data.
+              2. Item desc is must visible.
+              3.Real time tracking.
+              4.Max and Min stock must be variate.
 
-Clone the repository:
-
-git clone <repository-url>
-
-
-Install required Python libraries:
-
-pip install pandas numpy matplotlib seaborn
-
-
-Open the Jupyter Notebook and run the cells in order.
-
-Load the cleaned dataset into MySQL and execute the provided SQL queries.
-
-Open the Power BI file to explore the dashboard.
 
 Review the final report and presentation for summarized insights.
 
-Author
+**SURENDRA BABU ESA**
 
 Your Name
 Data Analyst | Python | SQL | Power BI
