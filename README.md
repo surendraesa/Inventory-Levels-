@@ -1,4 +1,4 @@
-**# Inventory-Levels-**
+**Inventory-Levels:**
 The project demonstrates an end-to-end data analytics workflow, starting from raw data loading to insights visualization and reporting. The goal is to extract meaningful insights from the dataset using Python, SQL, and Power BI, and present the results in a clear and business-focused manner.
  
 ** **   The project covers:****
@@ -93,7 +93,5 @@ Delivered actionable insights supported by data visualizations and SQL analysis.
 
 Review the final report and presentation for summarized insights.
 
-**SURENDRA BABU ESA**
+                                                                                                                                                                   **SURENDRA BABU ESA**
 
-Your Name
-Data Analyst | Python | SQL | Power BI
